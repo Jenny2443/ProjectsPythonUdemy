@@ -1,0 +1,9 @@
+NOMBRE,LAT,LON,HELO
+Hospital de Alcorcón, 40.349409, -3.836135,YES
+Hospital Rey Juan Carlos, 40.338375, -3.870515,YES
+Hospital Universitario de Móstoles, 40.316064, -3.877072,NO
+Hospital Universitario 12 de Octubre, 40.37474, -3.69982,YES
+Hospital Universitario La Paz, 40.4799, -3.6895,YES
+Hospital Universitario de Fuenlabrada, 40.285767, -3.816137,YES
+Hospital Beata María Ana de Jesús, 40.417995, -3.668438,NO
+Hospital Viamed Santa Elena, 40.44586, -3.716924,NO 
